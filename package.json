@@ -1,0 +1,26 @@
+{
+  "name": "sit725-2024-prac1",
+  "version": "1.0.0",
+  "description": "Boostrapping Express workshop. ",
+  "main": "script.js",
+  "scripts": {
+    "test": "npm run start",
+    "start":"npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruthjepchumba/sit725-2024-prac1.git"
+  },
+  "keywords": [
+    "SIT725"
+  ],
+  "author": "Ruth Jepchumba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruthjepchumba/sit725-2024-prac1/issues"
+  },
+  "homepage": "https://github.com/ruthjepchumba/sit725-2024-prac1#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
