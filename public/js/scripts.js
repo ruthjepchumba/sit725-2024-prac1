@@ -1,15 +1,15 @@
 const cardList = [
   {
-    title: "Kitten 2",
+    title: "Bobby brown",
     image: "images/kitten-2.jpg",
     link: "About Kitten 2",
-    desciption: "Demo desciption about kitten 2",
+    desciption: "Hello, I am always fluffy",
   },
   {
-    title: "Kitten 3",
+    title: "",
     image: "images/kitten-3.jpg",
     link: "About Kitten 3",
-    desciption: "Demo desciption about kitten 3",
+    desciption: "Hello, just passing by here.",
   },
 ];
 const clickMe = () => {
